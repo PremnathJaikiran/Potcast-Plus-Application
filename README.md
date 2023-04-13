@@ -9,4 +9,4 @@ Google Developer Profile Url link:
   
   Team member 2: https://developers.google.com/profile/u/115992731988604637788
    
-  Team member 3: https://developers.google.com/profile/u/111612696031551474657/edit
+  Team member 3: https://developers.google.com/profile/u/111612696031551474657
